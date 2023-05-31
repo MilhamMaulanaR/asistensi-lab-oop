@@ -1,0 +1,147 @@
+StackPane{
+    -fx-background-color: #4d695d;
+}
+
+#BUTTONSTART{
+    -fx-padding:10px;
+    -fx-max-width:100px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 20px;
+}
+
+#HEADER{
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 20px;
+}
+#CHOOSEMENU{
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 20px;
+}
+
+#CALCULATOR1{
+    -fx-padding:10px;
+    -fx-max-width:300px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 20px;
+}
+
+#CALCULATOR2{
+    -fx-padding:10px;
+    -fx-max-width:300px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 20px;
+}
+
+#JUDULKALKULATOR{
+    -fx-padding:5px;
+    -fx-max-width:200px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 20px;
+}
+
+#MASUKKANPANJANG{
+    -fx-padding:5px;
+    -fx-max-width:200px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 10px;
+    -fx-alignment: center;
+}
+
+#MASUKKANPENDEK{
+    -fx-padding:5px;
+    -fx-max-width:200px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 10px;
+    -fx-alignment: center;
+}
+
+#HASIL{
+    -fx-padding:5px;
+    -fx-max-width:100px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 10px;
+    -fx-alignment: center;
+}
+
+#CLEAR{
+    -fx-padding:5px;
+    -fx-max-width:100px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #cdc8b4;
+    -fx-border-color: rgb(73, 65, 65);
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-font-size: 10px;
+}
+#LABEL4{
+    -fx-padding:5px;
+    -fx-max-width:300px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #3d3c37;
+    -fx-border-color: #cdc8b4;
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-text-fill: white;
+    -fx-font-size: 10px;
+    -fx-alignment: center;
+}
+#TFIELD{
+    -fx-padding:5px;
+    -fx-max-width:100px;
+    -fx-min-width: 100px;
+    -fx-background-radius: 10px;
+    -fx-background-color: #3d3c37;
+    -fx-border-color: #cdc8b4;
+    -fx-border-width: 2px ;
+    -fx-border-radius: 5px;
+    -fx-font-family: "ARIAL BLACK";
+    -fx-text-fill: white;
+    -fx-font-size: 10px;
+    -fx-alignment: center;
+}
